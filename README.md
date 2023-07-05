@@ -1,3 +1,3 @@
 # curriculum-vitae
 
-Referência: https://www.w3schools.com/
+Referência: https://github.com/jpedroribeiro/html5-curriculum-vitae-template)https://github.com/jpedroribeiro/html5-curriculum-vitae-template
